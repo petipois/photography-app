@@ -1,0 +1,7 @@
+{
+  "name": "photography-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
