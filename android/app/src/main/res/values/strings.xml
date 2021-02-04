@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SnapMemory</string>
+    <string name="title_activity_main">SnapMemory</string>
+    <string name="package_name">uk.co.petipois.snapmemories</string>
+    <string name="custom_url_scheme">uk.co.petipois.snapmemories</string>
+</resources>

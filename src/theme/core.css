@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+*{
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+ion-toolbar{
+    --background: var(--ion-color-primary);
+    --ion-toolbar-color: var(--ion-color-primary-contrast);
+}
+ion-item{
+    font-family: 'Hachi Maru Pop', cursive;
+    font-weight: bold;
+}
